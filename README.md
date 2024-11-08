@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello Friend, Welcome to My Github!
 
-<!--
-**yewentao256/yewentao256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Wentao, currently a Master of Computer Science student at Cornell University, expected to graduate in May 2025.
 
-Here are some ideas to get you started:
+![](https://raw.githubusercontent.com/yewentao256/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yewentao256/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/yewentao256/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yewentao256/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Email: zhyanwentao@outlook.com / wy335@cornell.edu
+
+Website: https://wentao.site/
+
+LinkedIn: [Wentao Ye](https://linkedin.com/in/yewentao)
